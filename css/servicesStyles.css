@@ -1,0 +1,24 @@
+
+#serviceSec01 .serviceSec01Col {
+    text-align: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+#serviceSec01 .serviceSec01Col h3, p {
+    padding-top: 50px;
+}
+
+#serviceSec01 .serviceSec01Col img {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    
+}
+
+
+#serviceSec01 .serviceSec01Col button {
+    margin-bottom: 50px;
+    margin-top: 20px;
+    width: 50%;
+}

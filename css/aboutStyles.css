@@ -1,0 +1,49 @@
+
+
+header .headerContainer2 {
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+header .headerContainer2 h1 {
+    padding: 10px;
+}
+
+header .headerContainer2 h2 {
+    padding: 10px;
+}
+
+#aboutSection01 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#aboutSection01 .carousel-item {
+    height: 500px;
+}
+
+#aboutSection01 .carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+#aboutSection02 {
+    justify-content: center;
+    text-align: center;
+}
+
+#aboutSection02 h3 {
+    margin-bottom: 30px;
+}
+
+#aboutSection02 p {
+    margin-bottom: 30px;
+}
+
+#aboutSection02 button {
+    padding: 10px;
+    width: 50%;
+    margin-bottom: 30px;
+}
